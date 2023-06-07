@@ -2,7 +2,7 @@
 
 Utilizando APENAS JavaScript
 
-Ao abrir o joguinho, um "alert" irá aparecer perdindo um úmero qualquer para o primeiro player
+Ao abrir o joguinho, um "alert" irá aparecer perdindo um número qualquer para o primeiro player
 Logo após outro "alert" irá aparecer perdindo mais um número qualquer para o segundo player
 
 Uma moeda de sorte será lançada
