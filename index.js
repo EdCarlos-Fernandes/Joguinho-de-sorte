@@ -21,8 +21,8 @@ const joguinho = () => {
             alert(`Parabéns ${vencedor}, você foi o vencedor!`);
         };
 
-        alert("Vamos jogar uma moeda \n\n" +
-            "Se der 'CARA', ganha quem digitou o MENOR número \n" +
+        alert("Vamos jogar uma moeda \n\n\n" +
+            "Se der 'CARA', ganha quem digitou o MENOR número \n\n" +
             "Se der 'COROA', ganha quem digitou o MAIOR número."
         );
 
